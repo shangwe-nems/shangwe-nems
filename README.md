@@ -1,4 +1,4 @@
-# Hello there, This is Shangwe!😉  
+# Hello there, this is Shangwe!😉  
 
 <h3> Who is this guy ? </h3>
 
@@ -21,11 +21,10 @@ Beside being a Versatile Software Engineer Professional, Shangwe Nehemie is :
 <h3> 🤝🏻 Get in touch </h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/shangwe-nehemie/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-shangwe-nehemie-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/shangwe-nehemie/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-shangwe_nehemie-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/shangwe_nems"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@shangwe_nems-blue?style=flat-square&logo=twitter"></a>
 <a href="https://www.instagram.com/nehemie_shangwe/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-nehemie_shangwe-blue?style=flat-square&logo=Instagram"> </a>
 <a href="mailto:shangwe.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shangwe.dev@gmail.com-blue?style=flat-square&logo=Gmail"></a>
-<a href="https://facebook.com/nehemieshangwe/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-nehemieshangwe-blue?style=flat-square&logo=facebook"></a>
 <a href="https://wa.me/243898103516/"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Shangwe-lime?style=flat-square&logo=WhatsApp"> </a>
 
 ## ❤ Views and Followers
