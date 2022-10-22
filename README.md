@@ -1,14 +1,36 @@
-# Hello there, I'm Shangwe!😉  
+# Hello there, This is Shangwe!😉  
 
-<img align="left" alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<h3> Who is this guy ? </h3>
 
-<img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+Beside being a Versatile Software Engineer Professional, Shangwe Nehemie is : 
+<br/>
 
-<img align="left" alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+- 🤔 &nbsp; Entrepreneur (DCCB SAS, EL Vision SAS, GoYetu SAS, 何平Dev, Fabius SAS).
+- 🤔 &nbsp; Software Engineering Lecturer (ISESOD, JAV, UJN).
+- 🤔 &nbsp; Software Engineer (DCCB SAS, EL Vision, ISESOD).
+- 🎓 &nbsp; Master's & Bachelor degree in Software Engineering from Nanjing University of Aeronautics and Astonautics & ZJUT.
 
-<img alt="ExpressJS" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+<h3>🛠 His Tech Stack </h3>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shangwe-nems&show_icons=true&theme=default" />
+- 💼 &nbsp; Web Application Development : NextJS, ReactJS, GraphQL, NodeJS, Javascript, Typescript, NestJS, JSP.
+- 💼 &nbsp; Mobile Application Development : React Native (JS), Flutter (Dart), Native Android.
+- 💼 &nbsp; Enterprise Application Development(Desktop) : JavaFX, Java Swing.
+- 💼 &nbsp; Database Developer : SQL Server, PostgreSQL, MongoDB, SQL Lite, Firebase, MySQL.
+- 💼 &nbsp; Devops: Heroku, AWS, Git, GitHub, NPM.
 
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shangwe-nems&layout=compact" />
+<h3> 🤝🏻 Get in touch </h3>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/shangwe-nehemie/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-shangwe-nehemie-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://twitter.com/shangwe_nems"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@shangwe_nems-blue?style=flat-square&logo=twitter"></a>
+<a href="https://www.instagram.com/nehemie_shangwe/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-nehemie_shangwe-blue?style=flat-square&logo=Instagram"> </a>
+<a href="mailto:shangwe.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shangwe.dev@gmail.com-blue?style=flat-square&logo=Gmail"></a>
+<a href="https://facebook.com/nehemieshangwe/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-nehemieshangwe-blue?style=flat-square&logo=facebook"></a>
+<a href="https://wa.me/243898103516/"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Shangwe-lime?style=flat-square&logo=WhatsApp"> </a>
+
+## ❤ Views and Followers
+<a href="https://github.com/shangwe-nems/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=shangwe-nems">
+</a>
+<a href="https://github.com/shangwe-nems?tab=followers"><img src="https://img.shields.io/github/followers/shangwe-nems?label=Followers&style=social" alt="GitHub Badge"></a>
 
