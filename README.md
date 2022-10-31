@@ -1,6 +1,6 @@
 # Hello there, this is Shangwe!😉  
 
-<h3> Who is this guy ? </h3>
+<h3>🤔 Who is this guy ? </h3>
 
 Beside being a Versatile Software Engineer Professional, Shangwe Nehemie is : 
 <br/>
@@ -8,7 +8,7 @@ Beside being a Versatile Software Engineer Professional, Shangwe Nehemie is :
 - 🤔 &nbsp; Entrepreneur (DCCB SAS, EL Vision SAS, GoYetu SAS, 何平Dev, Fabius SAS).
 - 🤔 &nbsp; Software Engineering Lecturer (ISESOD, JAV, UJN).
 - 🤔 &nbsp; Software Engineer (DCCB SAS, EL Vision, ISESOD).
-- 🎓 &nbsp; Master's & Bachelor degree in Software Engineering from Nanjing University of Aeronautics and Astonautics & ZJUT.
+- 🎓 &nbsp; Master's & Bachelor degree in Software Engineering from Nanjing University of Aeronautics and Astronautics & ZJUT.
 
 <h3>🛠 His Tech Stack </h3>
 
