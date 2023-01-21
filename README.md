@@ -25,7 +25,7 @@ Beside being a Versatile Software Engineer Professional, Shangwe Nehemie is :
 <a href="https://twitter.com/shangwe_nems"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@shangwe_nems-blue?style=flat-square&logo=twitter"></a>
 <a href="https://www.instagram.com/nehemie_shangwe/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-nehemie_shangwe-blue?style=flat-square&logo=Instagram"> </a>
 <a href="mailto:shangwe.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shangwe.dev@gmail.com-blue?style=flat-square&logo=Gmail"></a>
-<a href="https://wa.me/243898103516/"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Shangwe-lime?style=flat-square&logo=WhatsApp"> </a>
+<a href="https://wa.me/243822722688/"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Shangwe-lime?style=flat-square&logo=WhatsApp"> </a>
 
 ## ❤ Views and Followers
 <a href="https://github.com/shangwe-nems/github-profile-views-counter">
