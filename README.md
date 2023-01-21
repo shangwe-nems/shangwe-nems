@@ -1,6 +1,6 @@
-### Hello there, this is Shangwe!😉  
+## Hey there, this is Shangwe!😉  
 
-<h3>🤔 Who is this guy ? </h3>
+<h3>🤔 Who's this ? </h3>
 
 Beside being a Versatile Software Engineer Professional, Shangwe Nehemie is : 
 <br/>
